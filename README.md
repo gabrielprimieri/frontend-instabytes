@@ -49,3 +49,8 @@ Server running at http://localhost:8000
 ```
 
 O projeto estará disponível no endereço http://localhost:8000 e você poderá acessá-lo no navegador de sua preferência.
+
+## Telas do Projeto:
+
+![image](https://github.com/user-attachments/assets/9d1c6e6d-67bd-461c-995f-1c67366bbd9e)
+
